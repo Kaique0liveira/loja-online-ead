@@ -1,3 +1,3 @@
-# Loja Online - titulo para campanha de dia dos namorados
+# Loja Online -  para campanha de dia dos namorados
 Duvidas: contato@loja.com.br
-Contato: tel: 119424532git 
+Contato: tel: 119424532
