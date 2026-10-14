@@ -1,4 +1,4 @@
-# Loja Online - Campanha de Black Friday
+# Loja Online - Campanha de natal
 
 
 ## Contato
